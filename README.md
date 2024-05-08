@@ -5,7 +5,7 @@ This project is a YouTube clone built entirely with React, utilizing various lib
 
 ## GIF
 
-![Screen_Recording_2024-02-19_at_12_54_10_AdobeExpress-ezgif com-optimize](https://github.com/tubayapa/Responsive-YouTube-Clone-with-React/assets/147662888/70701b29-0fe2-41dc-a083-60e92aace456)
+
 
 
 ## Features:
