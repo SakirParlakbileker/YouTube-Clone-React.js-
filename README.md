@@ -5,6 +5,7 @@ This project is a YouTube clone built entirely with React, utilizing various lib
 
 ## GIF
 
+![305960596-70701b29-0fe2-41dc-a083-60e92aace456](https://github.com/SakirParlakbileker/YouTube-Clone-React.js-/assets/147662891/ed614b5a-2a31-4c01-ba92-f6dd96149315)
 
 
 
